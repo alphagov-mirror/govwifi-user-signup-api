@@ -52,7 +52,7 @@ GEM
     minitest (5.11.3)
     multipart-post (2.0.0)
     mustermann (1.0.3)
-    mysql2 (0.5.2)
+    mysql2 (0.5.3)
     nio4r (2.5.2)
     nokogiri (1.10.5)
       mini_portile2 (~> 2.4.0)
